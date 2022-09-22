@@ -20,4 +20,4 @@ TBD
 
 ## Issues
 
-The WDC 3.0 CLI (taco-toolkit), SDK, and documentation is supported by Tableau. If anything is unclear or appears to be a defect please submit a GitHub Issue in this project or reach out via the [DataDev community](https://community.tableau.com/s/developers).
+The WDC 3.0 CLI (taco-toolkit), SDK, and documentation are supported by Tableau. If anything is unclear or appears to be a defect please submit a GitHub Issue in this project or reach out via the [DataDev community](https://community.tableau.com/s/developers).
