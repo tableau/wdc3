@@ -12,7 +12,7 @@ Official documentation for WDC 3.0 can be found [here](https://help.tableau.com/
 
 ## Taco Toolkit
 
-Taco Toolkit is the main CLI tool used to aid in the creation, development, and packaging of your WDC 3.0 connector. It can be installed from npm: [https://www.npmjs.com/package/@tableau/taco-toolkit](https://www.npmjs.com/package/@tableau/taco-toolkit)
+The TACO Toolkit is a set of tools that helps simplify Tableau web data connector development. It contains a command-line interface (CLI) to create and publish Tableau web data connectors and a SDK that enables you to develop your connectors efficiently. It can be installed from npm: [https://www.npmjs.com/package/@tableau/taco-toolkit](https://www.npmjs.com/package/@tableau/taco-toolkit)
 
 ## Versioning Considerations
 
