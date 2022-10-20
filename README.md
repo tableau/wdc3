@@ -16,7 +16,7 @@ The TACO Toolkit is a set of tools that helps simplify Tableau web data connecto
 
 ## Versioning Considerations
 
-TBD
+There are some version constraints between TACO Toolkit, WDC 3.0 connectors built with TACO Toolkit, and Tableau Products that must be taken into consideration. For details, please see the documentation [here](https://help.tableau.com/current/api/webdataconnector/en-us/docs/wdc_versioning.html)
 
 ## Issues
 
