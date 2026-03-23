@@ -1,6 +1,8 @@
 # Web Data Connector 3.0
 
-[![Tableau Supported](https://img.shields.io/badge/Support%20Level-Tableau%20Supported-53bd92.svg)](https://www.tableau.com/support-levels-it-and-developer-tools)
+[![As-Is](https://img.shields.io/badge/Support%20Level-As--Is-e8762c.svg)](https://www.tableau.com/support-levels-it-and-developer-tools)
+
+:warning: **Deprecated — This repository will be removed with the Tableau 26.3 release.** The Web Data Connector 3.0 framework is deprecated and will not receive further updates. Migrate to the [REST API Connector on Tableau Exchange](https://exchange.tableau.com/products/1111) — built by Tableau, supports JSON and CSV over HTTP GET, Basic/Bearer/OAuth authentication, and runs on Tableau 2023.3 and later. Note: this connector is extract-only and requires a JDBC driver installation.​​​​​​​​​​​​​​​​
 
 ***NOTE:** Web Data Connector 3.0 is the latest version of Tableau's web data connector framework. If you are looking for the prior version(s), which are set to be deprecated, you can find information here: [https://tableau.github.io/webdataconnector/](https://tableau.github.io/webdataconnector/)*
 
@@ -18,6 +20,3 @@ The TACO Toolkit is a set of tools that helps simplify Tableau web data connecto
 
 There are some version constraints between TACO Toolkit, WDC 3.0 connectors built with TACO Toolkit, and Tableau Products that must be taken into consideration. For details, please see the documentation [here](https://help.tableau.com/current/api/webdataconnector/en-us/docs/wdc_versioning.html)
 
-## Issues
-
-The WDC 3.0 CLI (taco-toolkit), SDK, and documentation are supported by Tableau. If anything is unclear or appears to be a defect please submit a GitHub Issue in this project or reach out via the [DataDev community](https://community.tableau.com/s/developers).
